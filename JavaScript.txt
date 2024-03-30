@@ -1,0 +1,15 @@
+Javascript:
+ -->Data types
+--> variables
+-->string
+  we can single quotes and double quotes as well.
+*string connotation:
+   + sign use to look them together.
+*var temp ${name} is a nice person and he has a channel
+called ${channel}'`;
+* string length:
+stringname.length
+  
+Dynamically add tags in html by strings:
+document.getElementById('content').innerHTML = '<h3>this is an
+h3 heading</h3>'
